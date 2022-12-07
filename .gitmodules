@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:liweicheng00/sp-custom-domain-bk.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:liweicheng00/sp-custom-domain-ft.git
