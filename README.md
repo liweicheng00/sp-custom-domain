@@ -1,3 +1,3 @@
 # Custom Domain Setting Demo
 
-[Demo]:https://sp1.liweicheng00.link
+[Demo](https://sp1.liweicheng00.link)
